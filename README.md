@@ -1,2 +1,3 @@
-# coursera-getting-and-cleaning-data
-Coursera Getting and Cleaning Data
+# Coursera Getting and Cleaning Data
+
+This repository contains Getting and Cleaning Data course project
