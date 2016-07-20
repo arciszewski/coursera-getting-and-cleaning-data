@@ -2,7 +2,7 @@
 
 This document describes the structure of tidy dataset `tidy_data.txt`. It contains processed data from smartphone 3-axis gyroscope and accelerometer. Data were gathered within the "Human Activity Recognition Using Smartphones" investigation fulfield by the group of researchers from [Smartlab](mailto:activityrecognition@smartlab.ws). For more details [follow the link](http://link.springer.com/chapter/10.1007/978-3-642-35395-6_30).
 
-Main focus of this work was to extract values from Smartlab dataset related to Mean and Standard deviation. Also task was to merge `Test` and `Train` datasets in a single table.
+Main focus of this work was to show how to get and clean data.
 
 Table below describes each column in resulting data set:
 
