@@ -74,6 +74,5 @@ write.table(tableMean, "tidy_data.txt", quote = FALSE, row.names = FALSE)
 if (exists("dateDownloaded")) {
     cat(dateDownloaded, file = "date_downloaded.txt", append = FALSE)
 }
-cat(headerClean, file = "table_header.txt", append = FALSE)
 print("Table with tidy data is saved to disk")
 print("Finished!")
