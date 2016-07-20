@@ -1,6 +1,6 @@
 # Code Book
 
-This document describes the structure of tidy dataset `tidy_data.txt`. It contains processed data from smartphone 3-axis gyroscope and accelerometer. Data were gathered within the "Human Activity Recognition Using Smartphones" investigation fulfield by the group of researchers from [Smartlab](mailto:activityrecognition@smartlab.ws). For more details [follow the link](http://link.springer.com/chapter/10.1007/978-3-642-35395-6_30).
+This document describes the structure of tidy dataset `tidy_data.txt`. It contains processed data from smartphone 3-axis gyroscope and accelerometer. Data were gathered within the "Human Activity Recognition Using Smartphones" investigation fulfield by the group of researchers from [Smartlab](mailto:activityrecognition@smartlab.ws). For more details [follow the link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 Main focus of this work was to show how to get and clean data.
 
